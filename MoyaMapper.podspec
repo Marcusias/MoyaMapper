@@ -15,6 +15,7 @@ MoyaMapper可以更加方便的解析Response，提供RxSwift拓展
 
   s.ios.deployment_target = '10.0'
   s.swift_version         = '5.0'
+  s.osx.deployment_target = '10.12'
 #s.source_files = 'MoyaMapper/Classes/**/*'
 
   s.default_subspec = "Core"
