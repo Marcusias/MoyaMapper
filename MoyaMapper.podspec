@@ -34,6 +34,7 @@ MoyaMapper可以更加方便的解析Response，提供RxSwift拓展
   s.subspec "Rx" do |ss|
     ss.source_files = "MoyaMapper/Classes/Rx/**/*"
     ss.dependency "MoyaMapper/Core"
+    ss.dependency "Moya/RxSwift", ">= 14.0.1"
     ss.dependency "RxSwift"
   end
   
