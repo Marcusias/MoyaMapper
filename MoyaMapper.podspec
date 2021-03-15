@@ -11,7 +11,7 @@ MoyaMapper可以更加方便的解析Response，提供RxSwift拓展
   s.homepage         = 'https://github.com/LinXunFeng/MoyaMapper'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'LinXunFeng' => '598600855@qq.com' }
-  s.source           = { :git => 'https://github.com/LinXunFeng/MoyaMapper.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/Marcusias/MoyaMapper.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '10.0'
   s.swift_version         = '5.0'
