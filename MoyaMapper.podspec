@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
 MoyaMapper可以更加方便的解析Response，提供RxSwift拓展
                        DESC
 
-  s.homepage         = 'https://github.com/LinXunFeng/MoyaMapper'
+  s.homepage         = 'https://github.com/Marcusias/MoyaMapperr'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'LinXunFeng' => '598600855@qq.com' }
   s.source           = { :git => 'https://github.com/Marcusias/MoyaMapper.git', :tag => s.version.to_s }
