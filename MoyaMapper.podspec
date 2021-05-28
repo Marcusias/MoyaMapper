@@ -13,7 +13,7 @@ MoyaMapper可以更加方便的解析Response，提供RxSwift拓展
   s.author           = { 'LinXunFeng' => '598600855@qq.com' }
   s.source           = { :git => 'https://github.com/WHaveFun/MoyaMapper.git', :tag => s.version.to_s }
 
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '9.0'
   s.swift_version         = '5.0'
   s.osx.deployment_target = '10.12'
 #s.source_files = 'MoyaMapper/Classes/**/*'
