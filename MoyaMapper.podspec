@@ -42,8 +42,6 @@ MoyaMapper可以更加方便的解析Response，提供RxSwift拓展
   
   s.subspec "RxCache" do |ss|
     ss.source_files = "MoyaMapper/Classes/RxCache/**/*"
-    ss.dependency "MoyaMapper/Rx"
-    ss.dependency "MoyaMapper/MMCache"
   end
 
 end
